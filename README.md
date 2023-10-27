@@ -1,5 +1,9 @@
 # Customer Api - Quarkus 
 
+Api Java + Quarkus de cadastro de clientes. Utilizando banco de dados em memoria, H2.
+
+
+
 ### :floppy_disk: Download - Para clonar o repositório
 
 #### com a chave ssh:
