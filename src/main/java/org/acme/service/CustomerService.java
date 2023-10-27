@@ -3,10 +3,9 @@ package org.acme.service;
 
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
+import java.util.List;
 import org.acme.entity.Customer;
 import org.acme.repository.CustomerRepository;
-
-import java.util.List;
 
 @ApplicationScoped
 public class CustomerService {
@@ -16,10 +15,12 @@ public class CustomerService {
 
 
     public List<Customer> findAllCustomers(){
-        customerRepository.findAll().list();
+       return customerRepository.findAll().list();
     }
 
     public void addCustomer(Customer customer){
-        customerRepository.persist(customer);
+       customerRepository.persist(customer);
     }
 }
+
+
