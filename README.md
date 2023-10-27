@@ -1,10 +1,20 @@
-# code-with-quarkus
+# Customer Api - Quarkus 
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+### :floppy_disk: Download - Para clonar o repositório
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+#### com a chave ssh:
 
-## Running the application in dev mode
+##### 1. Abra o seu terminal e clone o código com o comando
+
+    git@github.com:ericafnunes/api-client.git
+
+#### com o protocolo https:
+
+##### 2. Abra o seu terminal e clone o código com o comando
+
+    https://github.com/ericafnunes/api-client.git
+
+## :wrench: Running the application in dev mode
 
 You can run your application in dev mode that enables live coding using:
 ```shell script
