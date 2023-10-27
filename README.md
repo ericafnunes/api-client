@@ -2,6 +2,7 @@
 
 Api Java + Quarkus de cadastro de clientes. Utilizando banco de dados em memoria, H2.
 
+<img width="925" alt="Captura de Tela 2023-10-27 às 17 10 15" src="https://github.com/ericafnunes/api-client/assets/53315208/e6eb17fe-8822-4ed9-a0eb-16b2627a61e1">
 
 
 ### :floppy_disk: Download - Para clonar o repositório
